@@ -8,7 +8,7 @@ This project is an example that was built for my Assembly class assignment to so
 * Procedures and functions
 * Loading bitmap picture
 
-## Watch the demo
+## Watch the video
 [demo](https://youtu.be/zAgtARH1fzI)
 
 ## How to run the project
