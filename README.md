@@ -13,6 +13,7 @@ This project is an example that was built for my Assembly class assignment to so
 ## How to run the project
 * Clone this project
 * Just double-click the file MAIN.EXE, but you will need to run it on an x86 CPU (I developed it on Windows XP 32-bit using TASM: Turbo Assembler).
+* You can enter a board size of 4 to 10
 
 ## How to tweak this project
 You can try to convert the project to other assembler. Have fun coding guys ^^ 
