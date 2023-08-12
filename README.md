@@ -10,9 +10,6 @@ This project is an example that was built for my Assembly class assignment to so
 * Procedures and functions
 * Loading bitmap picture
 
-## Watch the video
-[demo](https://youtu.be/zAgtARH1fzI)
-
 ## How to run the project
 * Clone this project
 * Just double-click the file MAIN.EXE, but you will need to run it on an x86 CPU (I developed it on Windows XP 32-bit using TASM: Turbo Assembler).
