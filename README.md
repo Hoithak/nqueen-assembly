@@ -2,6 +2,8 @@
 
 ## The project is coded in Assembly language and showcases an animated solution to the n queen problem using brute-force techniques.
 
+![image](nqueen.gif)
+
 This project is an example that was built for my Assembly class assignment to solve n queen problem. The project is a sample of code that shows how to do the following:
 * Getting input from keyboard
 * Control flow and branching
